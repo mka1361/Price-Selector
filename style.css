@@ -59,7 +59,8 @@ body{
     width: 20px;
     top: -10px;
     left: 35px;
-    box-shadow: -2px -2px 5px rgba(0, 0, 0, 0.1);
+    /*box-shadow: -2px -2px 5px rgba(0, 0, 0, 0.1);*/
+    box-shadow: -2px -3px 3px 0px rgb(0, 0, 0, 0.1);
     background: #ffff;
     transform: rotate(45deg);
     transition: 0.5s;
